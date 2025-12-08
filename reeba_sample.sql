@@ -1,0 +1,1 @@
+SELECT * FROM reeba.mercy; //show all data in mercy table
